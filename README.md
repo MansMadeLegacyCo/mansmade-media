@@ -11,6 +11,8 @@ products/
   <product-handle>/
     <product-handle>-01.jpg   main photo
     <product-handle>-02.jpg   additional angles and details
+social/
+  <clip-name>.mp4             short videos for social posts (location data removed)
 brand/
   mansmade-logo-on-dark.png   logo for dark backgrounds (store header)
   mansmade-logo-on-light.png  logo for light backgrounds (emails, checkout)
