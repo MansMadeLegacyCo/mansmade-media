@@ -11,6 +11,9 @@ products/
   <product-handle>/
     <product-handle>-01.jpg   main photo
     <product-handle>-02.jpg   additional angles and details
+brand/
+  mansmade-logo-on-dark.png   logo for dark backgrounds (store header)
+  mansmade-logo-on-light.png  logo for light backgrounds (emails, checkout)
 tools/
   prepare_photos.py           resizes, orients and strips metadata
 ```
